@@ -1,4 +1,4 @@
 all: program
 
 program:
-	gfortran -Wall hangman.f95 -o kmpFortran
+	gfortran -Wall hangman.f95 -o hangman
